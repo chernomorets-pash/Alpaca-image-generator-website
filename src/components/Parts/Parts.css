@@ -1,0 +1,15 @@
+.parts {
+    position: absolute;
+    bottom: 0;
+}
+#neck{
+    top: 0;
+    left: 0;
+}
+#eyes{
+    display: relative;
+    top: 0;
+    left: 0;
+}
+
+
